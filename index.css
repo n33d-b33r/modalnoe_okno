@@ -1,0 +1,51 @@
+.Form_Reg_vneh_otstypu
+{
+    display: flex;
+    justify-content: center;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    color: rgb(0, 0, 0);/*Цвет текста*/
+    font-family: Helvetica;/*Шрифт*/
+    padding-top: 170px;
+    padding-bottom: 170px;
+
+}
+
+.Form_Reg
+{
+    padding: 20px;
+    border-radius: 40px;
+    backGround: rgb(247, 248, 249);
+    /*box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.5);*/
+
+}
+
+.chek_box
+{
+    display: flex;
+    justify-content: center;
+}
+
+.button_vhod
+{
+    display: flex;
+    justify-content: center;
+}
+
+.Registrac_text, .zabul_login_text, .zabul_parol_text
+{
+    color: #1a1e21;
+    text-align: center;
+}
+.button_vhod_punel
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.navbar
+{
+
+}
